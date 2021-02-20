@@ -17,4 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screenshots
 
-![](/pokedex_app/screenshots/01.jpg)
+![](https://raw.githubusercontent.com/devGabrielb/pokedex_app/master/screenshots/01.jpg)
+![](https://raw.githubusercontent.com/devGabrielb/pokedex_app/master/screenshots/02.jpg)
+![](https://raw.githubusercontent.com/devGabrielb/pokedex_app/master/screenshots/03.jpg)
+![](https://raw.githubusercontent.com/devGabrielb/pokedex_app/master/screenshots/04.jpg)
+![](https://raw.githubusercontent.com/devGabrielb/pokedex_app/master/screenshots/06.jpg)
+![](https://raw.githubusercontent.com/devGabrielb/pokedex_app/master/screenshots/05.jpg)
+
