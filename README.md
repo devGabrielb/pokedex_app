@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screenshots
 
-![](pokedex_app\screenshots/01.jpg)
+![](/pokedex_app/screenshots/01.jpg)
